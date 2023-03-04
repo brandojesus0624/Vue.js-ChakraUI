@@ -60,4 +60,4 @@ pnpm build && ./dist/index.js
 pnpm build && npm i --location=global .
 ```
 
-**Please, prefer using `pnpm` rather than `npm` or `yarn` while building `create-chakra` locally as it will avoid conflicts. I have not tested `create-chakra` with `npm` or `yarn`.**
+**Please, prefer using `pnpm` rather than `npm` or `yarn` while building `create-chakra` locally as it will avoid conflicts. I have not tested `create-chakra` with `npm` or `yarn`.** 
